@@ -1,4 +1,4 @@
-package org.codebase.xticotact;
+package org.codebase.taptictac;
 
 import android.content.Context;
 

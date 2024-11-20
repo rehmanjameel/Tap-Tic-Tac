@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "org.codebase.xticotact"
+    namespace = "org.codebase.taptictac"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "org.codebase.xticotact"
+        applicationId = "org.codebase.taptictac"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
